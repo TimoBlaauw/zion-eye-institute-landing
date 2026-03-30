@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Eye Specialists and Surgeons of Northern Virginia",
+  title: "Zion Eye Institute — Southern Utah's Premier Eye Care",
   description:
-    "Advanced vision care in Northern Virginia. LASIK, PRK, EVO ICL, RLE, and cataract surgery. WaveLight® PLUS technology. Locations in Fairfax and Gainesville.",
+    "Trusted eye care since 1979. LASIK, cataract surgery, glaucoma treatment, and pediatric ophthalmology. 4 locations in St. George, Santa Clara, Cedar City, and Mesquite.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -29,9 +29,9 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
   openGraph: {
-    title: "Eye Specialists and Surgeons of Northern Virginia",
+    title: "Zion Eye Institute — Southern Utah's Premier Eye Care",
     description:
-      "See what's possible for your vision — with a specialist evaluation you can trust. Schedule a free consultation at Eye Specialists and Surgeons of Northern Virginia.",
+      "See what's possible for your vision — with a specialist evaluation you can trust. Schedule a free consultation at Zion Eye Institute.",
     locale: "en_US",
     type: "website",
   },
